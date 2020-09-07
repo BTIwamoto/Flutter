@@ -9,6 +9,6 @@ O aplicativo Movie Checker faz o controle dos Filmes/Séries que você deseja as
 
 ## Executando
 
-- Agora que o código já está em sua máquina, basta abrir a pasta movie_checker no seu editor de texto favorito.
+- Agora que o código já está em sua máquina, basta abrir a pasta _movie_checker_ no seu editor de texto favorito.
 - Aberto o projeto, basta executar o software.
 - Caso haja algum problema, execute o comando: _flutter pub get_ na pasta raiz do projeto.
